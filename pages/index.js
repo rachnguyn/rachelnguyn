@@ -31,7 +31,7 @@ export default function Home() {
         </p>
       </div>
 
-      {/* <p className="description">
+      {/* <p className="description" >
 
       </p> */}
       <div className="projects card">
