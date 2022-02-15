@@ -17,7 +17,7 @@ export default function Home() {
           Her passion for education, humanitarianism, and culture inspire her work
           to be continuously inclusive, conscious, and impactful. She also enjoys gaming 
           and &nbsp;
-          <a style="color: white;" rel="noreferrer" href="https://instagram.com/foodies4lyfff" target="_blank">
+          <a style={{ color: 'white' }} rel="noreferrer" href="https://instagram.com/foodies4lyfff" target="_blank">
             <u>exploring new foods</u>. &nbsp; 
           </a> 
         </h3>
