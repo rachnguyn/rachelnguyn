@@ -16,7 +16,10 @@ export default function Home() {
           Rachel Nguyen is a Vietnamese-American software developer, designer, and student at UCLA. 
           Her passion for education, humanitarianism, and culture inspire her work
           to be continuously inclusive, conscious, and impactful. She also enjoys gaming 
-          and exploring new foods. &nbsp; 
+          and 
+          <a rel="noreferrer" href="https://instagram.com/foodies4lyfff" target="_blank">
+            <u>exploring new foods</u>. &nbsp; 
+          </a> 
         </h3>
         <p>
         <a rel="noreferrer" href="mailto: rachelnguyn@gmail.com" target="_blank">
